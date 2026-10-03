@@ -29,9 +29,9 @@ Keep the GitHub information page current with useful updates for developers.
 1. Read `notes/mona-notes.md` and follow Mona's editorial guidance.
 2. Fetch https://github.blog/latest/ with the web-fetch tool.
 3. Fetch https://github.blog/changelog/ with the web-fetch tool.
-4. Fetch https://awesome-copilot.github.com/workflows/ with the web-fetch tool.
+4. Web fetch https://awesome-copilot.github.com/workflows/.
 5. Review the fetched GitHub Blog, GitHub Changelog, and Awesome Copilot workflow sources for recent, practical updates that help developers learn GitHub faster.
 6. Update `site/content/github-info.md` with concise summaries and links to the original GitHub Blog, GitHub Changelog, or Awesome Copilot sources. Preserve the file's existing style and avoid unrelated changes.
 7. If the sources do not warrant an update, make no edits and report that no pull request is needed.
 8. If the file changed, use the `create-pull-request` safe output to open a pull request for Mona to review. Summarize what changed and cite the source links in the pull request body. Do not write directly to `main`.
-9. New updater request: Add the latest relevant GitHub developer update to `site/content/github-info.md`.
+
