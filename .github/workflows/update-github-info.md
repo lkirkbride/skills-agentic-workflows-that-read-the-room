@@ -34,3 +34,4 @@ Keep the GitHub information page current with useful updates for developers.
 6. Update `site/content/github-info.md` with concise summaries and links to the original GitHub Blog, GitHub Changelog, or Awesome Copilot sources. Preserve the file's existing style and avoid unrelated changes.
 7. If the sources do not warrant an update, make no edits and report that no pull request is needed.
 8. If the file changed, use the `create-pull-request` safe output to open a pull request for Mona to review. Summarize what changed and cite the source links in the pull request body. Do not write directly to `main`.
+9. New updater request: Add the latest relevant GitHub developer update to `site/content/github-info.md`.
