@@ -35,3 +35,6 @@ Keep the GitHub information page current with useful updates for developers.
 7. If the sources do not warrant an update, make no edits and report that no pull request is needed.
 8. If the file changed, use the `create-pull-request` safe output to open a pull request for Mona to review. Summarize what changed and cite the source links in the pull request body. Do not write directly to `main`.
 
+## Updater request
+
+Web fetch https://awesome-copilot.github.com/workflows/ and update `site/content/github-info.md` with a noteworthy Awesome Copilot workflow, citing that URL as the source.
